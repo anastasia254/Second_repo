@@ -88,6 +88,17 @@ body {
 		margin-right: 7%;
 		border-radius: 8px;
 	}
+	.location1 {
+		text-align: center;
+		color: white;
+		font-size: 12pt;
+		display: block;
+		background-color: rgba(175,133,255,1);
+		padding: 10px;
+		margin-left: 20%;
+		margin-right: 65%;
+		border-radius: 8px;
+	}
 }
 
 @media (min-width: 100px) and (max-width: 728px) and (orientation:portrait) {
@@ -295,7 +306,7 @@ body {
 
 /*---------- Responsive Grid Ends ---------------*/
 footer {
-	margin-left: 20%;
+	margin-left: 22%;
 	color: white;
 	font-size: 1.2em
 }
