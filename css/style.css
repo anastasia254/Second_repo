@@ -99,6 +99,12 @@ body {
 		margin-right: 65%;
 		border-radius: 8px;
 	}
+	.bold {
+		font-size: 16pt;
+	}
+	.font-card {
+		color: #3a3a3a;
+	}
 }
 
 @media (min-width: 100px) and (max-width: 728px) and (orientation:portrait) {
